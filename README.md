@@ -1,1 +1,2 @@
-# PRO-C104-MEAN-MEDIAN-MODE
+# MeanMedianMode
+solution 104
